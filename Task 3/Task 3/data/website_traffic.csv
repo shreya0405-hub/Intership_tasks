@@ -1,0 +1,21 @@
+User_ID,Session_ID,Traffic_Source,Device_Type,Pages_Visited,Session_Duration_Minutes,Bounce,Exit_Page,Conversion
+U001,S001,Organic Search,Mobile,5,8,No,Checkout,Yes
+U002,S002,Direct,Desktop,2,1,Yes,Home,No
+U003,S003,Social Media,Tablet,7,12,No,Product Page,Yes
+U004,S004,Referral,Desktop,3,4,Yes,Landing Page,No
+U005,S005,Email,Mobile,6,10,No,Checkout,Yes
+U006,S006,Organic Search,Desktop,4,5,No,Product Page,No
+U007,S007,Social Media,Mobile,1,1,Yes,Home,No
+U008,S008,Direct,Desktop,8,15,No,Checkout,Yes
+U009,S009,Referral,Tablet,2,2,Yes,Landing Page,No
+U010,S010,Email,Mobile,5,9,No,Checkout,Yes
+U011,S011,Organic Search,Desktop,6,11,No,Product Page,Yes
+U012,S012,Social Media,Mobile,3,3,Yes,Home,No
+U013,S013,Direct,Desktop,7,14,No,Checkout,Yes
+U014,S014,Referral,Mobile,2,2,Yes,Landing Page,No
+U015,S015,Email,Tablet,4,6,No,Product Page,No
+U016,S016,Organic Search,Desktop,5,9,No,Checkout,Yes
+U017,S017,Social Media,Mobile,1,1,Yes,Home,No
+U018,S018,Direct,Desktop,9,16,No,Checkout,Yes
+U019,S019,Referral,Tablet,3,4,Yes,Landing Page,No
+U020,S020,Email,Mobile,6,10,No,Product Page,Yes
